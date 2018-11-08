@@ -25,7 +25,7 @@ SECRET_KEY = '51*h1t!kp#-0-70hi8q=i&-1=k*x8$c$y+p!(8)z5s#2n%l^&m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*','yoga.pythonanywhere.com']
 
 
 # Application definition
